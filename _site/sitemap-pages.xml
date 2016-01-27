@@ -3,10 +3,34 @@
 
 
 <url>
-	<loc>http://blog.spamty.eu/404.html</loc>
+	<loc>http://blog.spamty.eu/404/</loc>
 </url>
 
 
+
+<url>
+	<loc>http://blog.spamty.eu/contact/</loc>
+</url>
+
+
+
+<url>
+	<loc>http://blog.spamty.eu/de/</loc>
+</url>
+
+
+
+<url>
+	<loc>http://blog.spamty.eu/en/</loc>
+</url>
+
+
+
+
+
+<url>
+	<loc>http://blog.spamty.eu/fr/</loc>
+</url>
 
 
 
@@ -23,37 +47,13 @@
 
 
 <url>
-	<loc>http://blog.spamty.eu/contact</loc>
+	<loc>http://blog.spamty.eu/legal/</loc>
 </url>
 
 
 
 <url>
-	<loc>http://blog.spamty.eu/de</loc>
-</url>
-
-
-
-<url>
-	<loc>http://blog.spamty.eu/en</loc>
-</url>
-
-
-
-<url>
-	<loc>http://blog.spamty.eu/fr</loc>
-</url>
-
-
-
-<url>
-	<loc>http://blog.spamty.eu/legal</loc>
-</url>
-
-
-
-<url>
-	<loc>http://blog.spamty.eu/privacy</loc>
+	<loc>http://blog.spamty.eu/privacy/</loc>
 </url>
 
 
