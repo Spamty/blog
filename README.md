@@ -1,6 +1,6 @@
 # Blog
 
-Spamty Blog powered by Jekyll
+Spamty Blog powered by Jekyll hosted on own FTP
 
 ## Info
 
