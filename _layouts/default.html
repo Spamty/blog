@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+  <div class="container"><!-- .container -->
+
+    {% include header.html %}
+
+	<div class="row">
+		<div class="col-md-8">
+			{{ content }} 
+		</div>
+		<div class="col-md-3 col-md-offset-1">
+			{% include sidebar.html %}
+		</div>
+	</div>
+        
+    {% include footer.html %}
+
+  </div><!-- /container -->    
+  
+{% include piwik.html %}
+
+  </body>
+
+<!--
+	Spamty Blog
+	Copyright (C) 2015 by Philipp & Spamty.eu
+	
+	Blog: http://blog.spamty.eu/
+	Website: http://spamty.eu/
+	On GitHub: https://github.com/Spamty/blog
+	Contact: http://3q3.de/spamty
+-->
+
+</html>

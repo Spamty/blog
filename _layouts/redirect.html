@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirect | Spamty.eu</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+  <meta http-equiv="refresh" content="0; url={{ content }}" />
+  <meta name="robots" content="noindex,nofollow">
+</head>
+
+  <body>
+  <div class="container"><!-- .container -->
+
+    {% include header.html %}
+
+	<div>
+		<a href="{{ content }}">Please click here to get to the website</a> 
+	</div>
+        
+    {% include footer.html %}
+
+  </div><!-- /container -->    
+  
+  </body>
+
+<!--
+	Spamty Blog
+	Copyright (C) 2015 by Philipp & Spamty.eu
+	
+	Blog: http://blog.spamty.eu/
+	Website: http://spamty.eu/
+	On GitHub: https://github.com/Spamty/blog
+	Contact: http://3q3.de/spamty
+-->
+
+</html>

@@ -1,0 +1,7 @@
+User-agent: *
+
+Sitemap: http://blog.spamty.eu/sitemap.xml
+
+Disallow: de.html
+Disallow: en.html
+Disallow: fr.html

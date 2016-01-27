@@ -1,0 +1,24 @@
+---
+layout: default
+# Spamty Blog (http://blog.spamty.eu/)
+# Copyright (C) 2015 by Philipp & Spamty.eu
+---
+
+<div class="home">
+
+<h1>Spamty Blog</h1>  
+
+    {% for post in site.posts %}
+	<article>
+		<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+		{{ post.excerpt }}
+		<div class="post-meta">
+			<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> {{ post.date | date: "%b %-d, %Y" }}
+			<span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ post.categories | category_links }}
+		</div>
+		<hr />
+	</article>
+    {% endfor %}
+
+
+</div>
