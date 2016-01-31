@@ -1,9 +1,12 @@
 # Blog
 
-Spamty Blog powered by Jekyll hosted on own FTP
+Spamty Blog powered by Jekyll. It can be found here: http://blog.spamty.eu/
 
-## Info
+For detailed info about Jekyll see */docs* folder and http://jekyllrb.com/docs/home/ 
 
-Jekyll Doc: http://jekyllrb.com/docs/home/
+## Notes
 
-Use PHP with Jekyll: http://stackoverflow.com/questions/19124309/intergrating-static-site-generators-with-php
+Built with 
+ * [Jekyll](http://jekyllrb.com/)
+ * ~~[GitHub Pages](https://pages.github.com/)~~
+ * [Twitter Bootstrap](https://getbootstrap.com/)
