@@ -9,7 +9,7 @@
 title: Spamty Blog
 description: "We will inform you here about everything new about Spamty.eu."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.spamty.eu" # the base hostname & protocol for your site
+url: "https://blog.spamty.eu" # the base hostname & protocol for your site
 permalink: pretty # structure /:categories/:year/:month/:day/:title/
 twitter_username: spamty
 github_username: Spamty
