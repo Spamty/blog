@@ -8,6 +8,6 @@ category: news
 ---
 We moved the complete site to a new server and added Let's Encrypt SSL certificates everywhere.
 
-You can now safely browse on the [Spamty Website](https://spamty.eu/), our Blog and the API documentation.
+You can now safely browse the [Spamty Website](https://spamty.eu/), our Blog and the API documentation.
 
 The API was always only available with HTTPS but we now added a valid certificate so you won't get any error notifications.
