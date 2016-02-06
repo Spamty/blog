@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://blog.spamty.eu/sitemap.xml
+Sitemap: https://blog.spamty.eu/sitemap.xml
