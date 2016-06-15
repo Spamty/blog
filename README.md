@@ -6,7 +6,4 @@ For detailed info about Jekyll see */docs* folder and https://jekyllrb.com/docs/
 
 ## Notes
 
-Built with 
- * [Jekyll](https://jekyllrb.com/)
- * ~~[GitHub Pages](https://pages.github.com/)~~
- * [Twitter Bootstrap](https://getbootstrap.com/)
+Built with [Jekyll](https://jekyllrb.com/) and [Twitter Bootstrap](https://getbootstrap.com/)
