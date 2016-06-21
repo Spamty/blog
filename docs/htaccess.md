@@ -3,7 +3,7 @@
 To use custom .htaccess files with Jekyll create a file named *htaccess* (without dot) and set permalink to *.htaccess* (with dot).
 Same for htpasswd file.
 
-See also: http://newbieonruby.com/jekyll-include-htaccess/
+See also: <http://newbieonruby.com/jekyll-include-htaccess/>
 
 ## Example .htaccess file
 
