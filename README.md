@@ -1,5 +1,7 @@
 # Blog
 
+[![Build Status](https://travis-ci.com/philipp-r/spamty-blog.svg?token=ULXNVZ2EGggqd9zaqazx&branch=gh-pages)](https://travis-ci.com/philipp-r/spamty-blog)
+
 Spamty Blog powered by Jekyll. It can be found here: <https://blog.spamty.eu/>
 
 ## Documentation
