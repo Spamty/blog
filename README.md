@@ -1,6 +1,11 @@
 # Blog
 
-[![Build Status](https://travis-ci.com/philipp-r/spamty-blog.svg?token=ULXNVZ2EGggqd9zaqazx&branch=gh-pages)](https://travis-ci.com/philipp-r/spamty-blog)
+[![Build Status](https://travis-ci.org/Spamty/blog.svg?branch=gh-pages)](https://travis-ci.org/Spamty/blog)
+[![Open Issues](https://img.shields.io/github/issues/spamty/blog.svg)](https://github.com/Spamty/blog/issues)
+
+![Copyright](https://img.shields.io/badge/copyright-2016_Spamty.eu-blue.png)
+![Twitter](https://img.shields.io/twitter/follow/Spamty.svg?style=social&label=Follow&maxAge=2592000)
+
 
 Spamty Blog powered by Jekyll. It can be found here: <https://blog.spamty.eu/>
 
