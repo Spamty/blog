@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Spamty/blog.svg?branch=gh-pages)](https://travis-ci.org/Spamty/blog)
 [![Open Issues](https://img.shields.io/github/issues/spamty/blog.svg)](https://github.com/Spamty/blog/issues)
 
-![Copyright](https://img.shields.io/badge/copyright-2016_Spamty.eu-blue.png)
+[![Copyright](https://img.shields.io/badge/license-CC_BY--NC--SA-blue.png)](https://github.com/Spamty/blog/blob/gh-pages/LICENSE.md)
 ![Twitter](https://img.shields.io/twitter/follow/Spamty.svg?style=social&label=Follow&maxAge=2592000)
 
 
@@ -21,9 +21,21 @@ Push commits **only** to GitHub. They are cloned for reference to our own git se
 
 Report issues and bugs on GitHub.
 
-## Notes
+## License
 
-Built with [Jekyll](https://jekyllrb.com/), [Twitter Bootstrap](https://getbootstrap.com/) and [GitHub Pages](https://pages.github.com).
+Copyright (c) 2016 by 
+[Spamty team](https://github.com/Spamty) &
+[contributors](https://github.com/Spamty/blog/graphs/contributors)
+
+The **text and content of our blog** (especially in the `_posts` directory) 
+is licensed under a Creative Commons 
+**Attribution-NonCommercial-ShareAlike 4.0 International** License.
+
+You should have received a copy of the license along with this
+work. If not, see <https://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
 
-*Copyright (c) 2016 by Spamty.eu*
+Built with 
+[Jekyll](https://jekyllrb.com/), 
+[Twitter Bootstrap](https://getbootstrap.com/) and 
+[GitHub Pages](https://pages.github.com).
