@@ -19,4 +19,4 @@ timezone: UTC
 markdown: kramdown
 
 # exclude some files
-exclude: ["README.md", "CNAME", "docs/", "vendor"]
+exclude: ["README.md", "LICENSE.md", "CNAME", "docs/", "vendor"]
