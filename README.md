@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Spamty/blog.svg?branch=gh-pages)](https://travis-ci.org/Spamty/blog)
 [![Open Issues](https://img.shields.io/github/issues/spamty/blog.svg)](https://github.com/Spamty/blog/issues)
 
-[![License](https://img.shields.io/badge/license-CC_BY--SA-blue.png)](https://github.com/Spamty/blog/blob/gh-pages/LICENSE.md)
+[![License](https://img.shields.io/badge/license-CC--BY--SA_GNU--GPL--v3-blue.png)](https://github.com/Spamty/blog/blob/gh-pages/LICENSE.md)
 ![Twitter](https://img.shields.io/twitter/follow/Spamty.svg?style=social&label=Follow&maxAge=2592000)
 
 
@@ -26,6 +26,13 @@ Report issues and bugs on GitHub.
 Copyright (c) 2016 by 
 [Spamty team](https://github.com/Spamty) &
 [contributors](https://github.com/Spamty/blog/graphs/contributors)
+
+The **source code of our blog** (especially the `.html` files) 
+is licensed under the **GNU General Public License**
+version 3 as published by the Free Software Foundation.
+
+You should have received a copy of the GNU General Public License
+along with this work. If not, see <http://www.gnu.org/licenses/>.
 
 The **text and content of our blog** (especially in the `_posts` directory) 
 is licensed under a Creative Commons 
