@@ -42,6 +42,12 @@ You should have received a copy of the license along with this
 work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
 
 
+
+*Support Spamty and donate Bitcoins to:*
+*1NRoifJBzLAKP3K6pkNikcrydENYw2EoF6*
+
+
+
 Built with 
 [Jekyll](https://jekyllrb.com/), 
 [Twitter Bootstrap](https://getbootstrap.com/) and 
