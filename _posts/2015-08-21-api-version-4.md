@@ -8,7 +8,7 @@ category: developer
 ---
 The first functions of the new [API](https://dev.spamty.eu/) version 4 are online. 
 
-You can use it to [create a short url](https://dev.spamty.eu/shorturlcreate) and to [view a link](https://dev.spamty.eu/shorturlview) from a short url. More to come soon...
+You can use it to [create a short url](https://dev.spamty.eu/shorturl/shorturlcreate/) and to [view a link](https://dev.spamty.eu/shorturl/shorturlview/) from a short url. More to come soon...
 
 ### Changelog
 * You now have to authenticate with an additional username to your API key and the API requests are logged.
