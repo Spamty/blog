@@ -14,6 +14,6 @@ The API URL has changed to:
 https://3q3.de/yourls-api.php
 ````
 
-Furthermore you have to authorize with signature token and timestamp that can be [requested via email](https://dev.spamty.eu/apikeys/). See [YOURLS passwordless API](https://github.com/YOURLS/YOURLS/wiki/PasswordlessAPI#usage-of-a-time-limited-signature-token).
+Furthermore you have to authorize with signature token and timestamp that can be requested via email. See [YOURLS passwordless API](https://github.com/YOURLS/YOURLS/wiki/PasswordlessAPI#usage-of-a-time-limited-signature-token).
 
-Refer to [our docs](https://dev.spamty.eu/shorturl/) and the official [YOURLS documentation](http://yourls.org/#API). We have changed a few things with the API so you should stick to our docs whenever possible.
+Refer to [our docs](https://dev.spamty.eu/) and the official [YOURLS documentation](http://yourls.org/#API). We have changed a few things with the API so you should stick to our docs whenever possible.
