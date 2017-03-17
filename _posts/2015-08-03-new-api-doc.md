@@ -9,4 +9,4 @@ category: developer
 I published the new [API documentation](https://dev.spamty.eu/) for spamty.eu. 
 It is powered by Dokuwiki.
 
-Furthermore we introduced a new API method to [shorten a link](https://dev.spamty.eu/shorturl/) with the [URL shortener](http://3q3.de/) 3q3.de. 
+Furthermore we introduced a new API method to shorten a link with the [URL shortener](http://3q3.de/) 3q3.de. 
