@@ -1,11 +1,11 @@
 ---
 # Spamty Blog (https://blog.spamty.eu/)
-# Copyright (C) 2016 by Philipp & Spamty.eu
+# Copyright (C) 2017 by Philipp & Spamty.eu
 ---
 /* TEAM */
 	Developer: Philipp Rackevei
 	From: Germany
-	Contact: http://3q3.de/spamty
+	Contact: http://spamty.eu/mail/v4/8/97af91f55ea64a9afb/
 	Twitter: @philipp_ra
 	GitHub: @philipp-r
 
@@ -16,4 +16,4 @@
 	Standards: HTML5, CSS3
 	Components: Twitter Bootstrap
 	IDE: TextWrangler, Transmit, GitHub, Jekyll
-	Hosted by: GitHub Pages 
+	Hosted by: GitHub Pages
